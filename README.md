@@ -1,4 +1,4 @@
-# Alejandro Portfolio in Astro
+# Alejandro Hurtado Alvarez
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
