@@ -2,7 +2,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/YoAlejoDev">Alejandro Hurtado Alvarez (AlejoDec)</a></b>
+                <b><a target="_blank" href="https://github.com/YoAlejoDev">Al.think</a></b>
         </samp>
 </h3>
 
